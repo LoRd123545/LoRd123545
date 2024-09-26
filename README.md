@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning node, docker, linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  mail: kamilabbasi694@gmail.com
+  mail: kamil.abbasi.official@gmail.com
   github: LoRd123545
 
 <!---
